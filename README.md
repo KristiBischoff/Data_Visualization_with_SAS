@@ -3,8 +3,8 @@
 This repository is summarized through the readme. All of the plots were created using SAS Studio code. 
 
 #### Sources/Citations:
-The birth data was made available and accessed on [Kaggle](https://www.kaggle.com/datasets/debjeetdas/babies-birth-weight) 
-Superstore data made available and accessed on [Tableau Public](https://public.tableau.com/app/resources/sample-data)
+##### The birth data was made available and accessed on [Kaggle](https://www.kaggle.com/datasets/debjeetdas/babies-birth-weight) 
+##### Superstore data made available and accessed on [Tableau Public](https://public.tableau.com/app/resources/sample-data)
 
 ## Small Business Analysis Data 
 A mock data set created by myself is used for the bubble and scatter plot demos. This is a data set with details about a small clothing resale business. 
