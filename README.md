@@ -2,10 +2,9 @@
 
 This repository is summarized through the readme. All of the plots were created using SAS Studio code. See full data source references at the bottom of the readme.
 
-## Bubble Plots
-A mock data set created by myself is used for the bubble plot demo. This is a data set with details about a small clothing resale business. 
+## Bubble Plots 
 
-### Bubble plot of profit vs. sales for all clothing types 
+### A mock data set created by myself is used for the bubble plot demo. This is a data set with details about a small clothing resale business. First is a bubble plot of profit vs. sales for all clothing types by clothing niche (luxury, trendy, and vintage).
 
 ![bubble_plot_1](Graphs_Plots/Bubble_Plot_1.png)
 
