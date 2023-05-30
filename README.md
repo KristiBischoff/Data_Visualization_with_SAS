@@ -3,7 +3,7 @@
 This repository is summarized through the readme. All of the plots were created using SAS Studio code. 
 
 #### Sources/Citations:
-The birth data was made available and accessed on [Kaggle](https://www.kaggle.com/datasets/debjeetdas/babies-birth-weight)
+The birth data was made available and accessed on [Kaggle](https://www.kaggle.com/datasets/debjeetdas/babies-birth-weight) 
 Superstore data made available and accessed on [Tableau Public](https://public.tableau.com/app/resources/sample-data)
 
 ## Small Business Analysis Data 
