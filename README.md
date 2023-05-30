@@ -1,6 +1,10 @@
 # Data Visualization with SAS
 
-This repository is summarized through the readme. All of the plots were created using SAS Studio code. See full data source references at the bottom of the readme.
+This repository is summarized through the readme. All of the plots were created using SAS Studio code. 
+
+#### Sources/Citations:
+The birth data was made available and accessed on [Kaggle](https://www.kaggle.com/datasets/debjeetdas/babies-birth-weight)
+Superstore data made available and accessed on [Tableau Public](https://public.tableau.com/app/resources/sample-data)
 
 ## Small Business Analysis Data 
 A mock data set created by myself is used for the bubble and scatter plot demos. This is a data set with details about a small clothing resale business. 
@@ -87,10 +91,6 @@ Overlay graphs are great for observed and predicted values. A panel style is use
 The most extreme grades (A and F) are compared in a tornado chart. The overlay style is continued here in order to compare observed and expected values.
 
 ![Tornado_Overlay_1](Graphs_Plots/Tornado_Overlay_1.png)
-
-#### Sources/Citations:
-The birth data was made available and accessed on [Kaggle](https://www.kaggle.com/datasets/debjeetdas/babies-birth-weight)
-Superstore data made available and accessed on [Tableau Public](https://public.tableau.com/app/resources/sample-data)
 
 
 
