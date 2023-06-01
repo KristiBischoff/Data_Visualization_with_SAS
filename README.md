@@ -1,6 +1,6 @@
 # Data Visualization with SAS
 
-This repository is summarized through the readme. All of the plots were created using SAS Studio code. Some data sources were created by and are indicated in the readme sections below. See the end of the readme for data sources that I didn't create.
+This repository is summarized through the readme. All of the plots were created using SAS Studio code. Some data sources were created by and are indicated in the readme sections below. See the end of the readme for data sources that I didn't create. The SAS program file (full code of data manipulation and each SGPLOT) is not provided in this repository at this time, and may be available upon request.
 
 ## Small Business Analysis Data 
 A mock data set created by myself is used for the bubble and scatter plot demos. This is a data set with details about a small clothing resale business. 
