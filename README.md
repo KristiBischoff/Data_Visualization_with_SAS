@@ -7,11 +7,11 @@ A mock data set created by myself is used for the bubble and scatter plot demos.
 
 ### Bubble Plots 
 
-First is a bubble plot of profit vs. sales for all clothing types by clothing niche (luxury, trendy, and vintage).
+First is a bubble plot of profit vs. sales for all clothing types by clothing niche (luxury, trendy, and vintage). Combining all clothing types makes it difficult to see a lot of the data points. Here, no colors are customized and the default is displayed.
 
 ![bubble_plot_11](Graphs_Plots/Bubble_Plot_11.png)
 
-Next, the data is subset to look only at tops profit vs. Sales.
+Next, the data is subset to look only at tops profit vs. Sales. Customization to the bubbles includes transparency and color changes by niche category. 
 
 ![bubble_plot_2](Graphs_Plots/Bubble_Plot_2.png)
 
