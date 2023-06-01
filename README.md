@@ -17,11 +17,11 @@ Next, the data is subset to look only at tops profit vs. Sales.
 
 ### Scatter Plots
 
-Are scatter plots or bubble plots visually better for the data? This is a comparison from the bubble chart with the same data sets used before. This scatter plot is for sales (USD) for all clothing types by niche.
+Are scatter plots or bubble plots visually better for the data? This is a comparison from the bubble chart with the same data sets used before. This scatter plot is for sales (USD) for tops by niche. Differentiation of the niche category is displayed by marker symbol and color, which is accomplished by attribute map.
 
 ![scatter_plot_1](Graphs_Plots/Scatter_Plot_1.png)
 
-This scatter plot is for just tops.
+This scatter plot using the same data as above, but it's simpler with a circle filled marker symbol and color customization by niche. 
 
 ![scatter_plot_2](Graphs_Plots/Scatter_Plot_2.png)
 
@@ -67,6 +67,10 @@ A basic line chart for profit (USD) over time, but the background color is custo
 
 ![Vline_Profit_Background_1](Graphs_Plots/Vline_Profit_Background_1.png)
 
+The line chart is further customized by grouping by region, so then there are 4 lines of data to follow. To differentiate the data by region, color is customized. Additionally, the line patterns are customized by region. This is useful in case color may not be used. Customizations were created by an attribute map. 
+
+![Vline_Patterns](Graphs_Plots/Vline_Patterns.png)
+
 Panel is useful in this example when there is a lot of information to visualize. The plot details sales for each month grouped by region, and the panels are for each year. The year 2018 is excluded, because there was not enough months of data. 
 
 ![Vline_Panel_1](Graphs_Plots/Vline_Panel_1.png)
@@ -80,11 +84,11 @@ A mock data set created by myself. This data set includes grades and the calcula
 
 ### Overlay and tornado graphs
 
-Overlay graphs are great for observed and predicted values. A panel style is used for a clean look at the overlay graphs that represent each letter grade and course subject.
+Overlay graphs are great for observed and predicted values, and the fill attributes for the bars may be customized and conditional. A panel style is used for a clean look at the overlay graphs that represent each letter grade and course subject. There is an empty panel since there are only 5 letter grades. Using Chi Square calculation, there are some course subjects (depending on the letter grade) that are flagged as having a significant amount of students with that letter grade compared to the expected number of students. These bars are conditionally coded to be a dark red to stand out.  
 
 ![Overlay_Panel](Graphs_Plots/Overlay_Panel.png)
 
-The most extreme grades (A and F) are compared in a tornado chart. The overlay style is continued here in order to compare observed and expected values.
+The most extreme grades (A and F) are compared in a tornado chart. The overlay style is continued here in order to compare observed and expected values. Default colors may be used, or they can be customized to the color of choice as below.
 
 ![Tornado_Overlay_1](Graphs_Plots/Tornado_Overlay_1.png)
 
