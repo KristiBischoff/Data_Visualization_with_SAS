@@ -9,7 +9,7 @@ A mock data set created by myself is used for the bubble and scatter plot demos.
 
 First is a bubble plot of profit vs. sales for all clothing types by clothing niche (luxury, trendy, and vintage).
 
-![bubble_plot_1](Graphs_Plots/Bubble_Plot_1.png)
+![bubble_plot_11](Graphs_Plots/Bubble_Plot_11.png)
 
 Next, the data is subset to look only at tops profit vs. Sales.
 
