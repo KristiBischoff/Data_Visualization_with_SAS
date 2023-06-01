@@ -77,7 +77,7 @@ Panel is useful in this example when there is a lot of information to visualize.
 
 A stacked band plot requires a lot of data compression (aggregation), but it's visually nice. Sales (USD) is detailed over time with each band and area chart component representing a product category.
 
-![Stacked_Band_Plot_2](Graphs_Plots/Stacked_Band_Plot_1.png)
+![Stacked_Band_Plot_2](Graphs_Plots/Stacked_Band_Plot_2.png)
 
 ## Academic Data
 A mock data set created by myself. This data set includes grades and the calculated observed and expected number of students with these letter grades by popular course subjects. 
